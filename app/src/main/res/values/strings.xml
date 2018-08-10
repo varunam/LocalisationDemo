@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalisationDemo</string>
+    <string name="english">English</string>
+    <string name="hindi">हिंदी</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="learn_kannada">Learn Kannada</string>
+    <string name="want_to_learn_quickly">I want to learn Kannada quickly</string>
+    <string name="go_to_next_screen">Go to next screen</string>
+</resources>
